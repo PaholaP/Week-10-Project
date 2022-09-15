@@ -1,4 +1,4 @@
-# Week-10-Project
+# Week-10
 
 Using HTML, Bootstrap, and JavaScript I created a single page website that contains the following: 
 A Bootstrap styled table representing data. 
